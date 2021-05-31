@@ -2,7 +2,7 @@
 ## Projects
 |Project| Title |
 | :---: | ----- |
-|01|[Finding Lane Lines](./lecture01)
+|01|[Finding Lane Lines](./project01)
 
 ## Lectures
 |Lecture| Title |
