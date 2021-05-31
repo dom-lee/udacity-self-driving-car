@@ -1,6 +1,10 @@
 # Udacity-Self-Driving-Car
+## Projects
+|Project| Title |
+| :---: | ----- |
+|01|[Finding Lane Lines](./lecture01)
 
-## Lecture
-| Lecture| Title |
+## Lectures
+|Lecture| Title |
 | :---: | ----- |
 |01|[Computer Vision Fundamentals](./lecture01)
