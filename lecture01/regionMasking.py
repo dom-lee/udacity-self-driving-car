@@ -5,7 +5,7 @@ import numpy as np
 
 def main():
     # Read in the image and print some stats
-    image = mpimg.imread('test.jpg')
+    image = mpimg.imread('images/test.jpg')
     print('This image is: ', type(image), 'with dimensions:', image.shape)
 
     # Pull out the x and y sizes and make a copy of the image

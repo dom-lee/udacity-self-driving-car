@@ -5,7 +5,7 @@ import numpy as np
 
 def main():
     # Read in the image
-    image = mpimg.imread('test.jpg')
+    image = mpimg.imread('images/test.jpg')
 
     # Grab the x and y sizes and make two copies of the image
     # With one copy we'll extract only the pixels that meet our selection,
