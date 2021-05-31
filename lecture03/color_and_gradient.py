@@ -5,7 +5,7 @@ import matplotlib.image as mpimg
 
 
 def main():
-    image = mpimg.imread('images/bridge_shadow.jpg')
+    image = mpimg.imread('test_images/bridge_shadow.jpg')
 
     result = pipeline(image)
 
@@ -46,7 +46,7 @@ def pipeline(img, s_thresh=(170, 255), sx_thresh=(20, 100)):
     s_binary[(s_channel >= s_thresh[0]) & (s_channel <= s_thresh[1])] = 1
 
     # Stack each channel to view their individual contributions in green and blue respectively
-    # This returns a stack of the two binary images, whose components you can see as different colors
+    # This returns a stack of the two binary test_images, whose components you can see as different colors
     color_binary = np.dstack((np.zeros_like(sxbinary), sxbinary, s_binary)) * 255
 
     # Combine the two binary thresholds

@@ -7,7 +7,7 @@ import pickle
 
 def main():
     # Read in an image
-    image = mpimg.imread('images/signs_vehicles_xygrad.png')
+    image = mpimg.imread('test_images/signs_vehicles_xygrad.png')
 
     # Run the function
     mag_binary = mag_thresh(image, sobel_kernel=3, mag_thresh=(30, 100))

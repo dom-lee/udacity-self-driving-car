@@ -10,4 +10,6 @@
 |01|[Computer Vision Fundamentals](./lecture01)
 |02|[Camera Calibration](./lecture02)
 |03|[Gradients and Color Spaces](./lecture03)
+|04|[Advanced Computer Vision](./lecture04)
+
 

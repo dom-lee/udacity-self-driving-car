@@ -6,7 +6,7 @@ import cv2
 
 def main():
     # Read in an image, you can also try test1.jpg or test4.jpg
-    image = mpimg.imread('images/test6.jpg')
+    image = mpimg.imread('test_images/test6.jpg')
 
     # Optional TODO - tune the threshold to try to match the above image!
     hls_binary = hls_select(image, thresh=(90, 255))

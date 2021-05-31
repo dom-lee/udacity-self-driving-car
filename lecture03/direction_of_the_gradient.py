@@ -7,7 +7,7 @@ import pickle
 
 def main():
     # Read in an image
-    image = mpimg.imread('images/signs_vehicles_xygrad.png')
+    image = mpimg.imread('test_images/signs_vehicles_xygrad.png')
 
     # Run the function
     dir_binary = dir_threshold(image, sobel_kernel=15, thresh=(0.7, 1.3))

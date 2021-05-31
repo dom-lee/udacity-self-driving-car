@@ -7,12 +7,12 @@ import matplotlib.image as mpimg
 
 def main():
     # Read in the saved objpoints and imgpoints
-    dist_pickle = pickle.load(open("images/wide_dist_pickle.p", "rb"))
+    dist_pickle = pickle.load(open("test_images/wide_dist_pickle.p", "rb"))
     objpoints = dist_pickle["objpoints"]
     imgpoints = dist_pickle["imgpoints"]
 
     # Read in an image
-    img = cv2.imread('images/test_image.png')
+    img = cv2.imread('test_images/test_image.png')
 
     undistorted = cal_undistort(img, objpoints, imgpoints)
 

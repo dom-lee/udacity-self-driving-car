@@ -5,7 +5,7 @@ import numpy as np
 
 def main():
     # Read in the image
-    image = mpimg.imread('images/test.jpg')
+    image = mpimg.imread('test_images/test.jpg')
 
     # Grab the x and y size and make a copy of the image
     ysize = image.shape[0]
@@ -33,7 +33,7 @@ def main():
     plt.show()
 
     # Uncomment the following code if you are running the code locally and wish to save the image
-    mpimg.imsave("images/test-after.png", color_select)
+    mpimg.imsave("test_images/test-after.png", color_select)
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@ import pickle
 
 def main():
     # Read in an image
-    image = mpimg.imread('images/signs_vehicles_xygrad.png')
+    image = mpimg.imread('test_images/signs_vehicles_xygrad.png')
 
     ksize = 3  # Choose a larger odd number to smooth gradient measurements
 

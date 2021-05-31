@@ -7,7 +7,7 @@ import pickle
 
 def main():
     # Read in an image and grayscale it
-    image = mpimg.imread('images/signs_vehicles_xygrad.png')
+    image = mpimg.imread('test_images/signs_vehicles_xygrad.png')
 
     # Run the function
     grad_binary = abs_sobel_thresh(image, orient='x', thresh_min=20, thresh_max=100)

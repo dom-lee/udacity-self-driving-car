@@ -9,8 +9,8 @@ def main():
     nx = 8      # TODO: enter the number of inside corners in x
     ny = 6      # TODO: enter the number of inside corners in y
 
-    # Make a list of calibration images
-    fname = 'images/calibration_test.png'
+    # Make a list of calibration test_images
+    fname = 'test_images/calibration_test.png'
     img = cv2.imread(fname)
 
     # Convert to grayscale
