@@ -8,3 +8,4 @@
 |Lecture| Title |
 | :---: | ----- |
 |01|[Computer Vision Fundamentals](./lecture01)
+|02|[Camera Calibration](./lecture02)
