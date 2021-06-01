@@ -19,7 +19,6 @@ def main():
     ax2.plot(histogram)
     ax2.set_title('Histogram', fontsize=50)
     plt.subplots_adjust(left=0., right=1, top=1, bottom=0)
-    plt.savefig('result_images/lane_histogram.png', bbox_inches="tight")
     plt.show()
 
 
