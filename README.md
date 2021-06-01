@@ -2,7 +2,8 @@
 ## Projects
 |Project| Title |
 | :---: | ----- |
-|01|[Finding Lane Lines](project01)
+|01|[Finding Lane Lines](project/project01)
+|02|[Traffic Sign Classifier](project/project02)
 
 ## Lectures
 |Lecture| Title |
@@ -15,5 +16,4 @@
 |06|[TensorFlow](lecture/lecture06)
 |07|[Deep Neural Networks](lecture/lecture07)
 |08|[Convolutional Neural Networks](lecture/lecture08)
-|09|[LeNet for Traffic Signs](lecture09)
 
