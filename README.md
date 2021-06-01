@@ -18,5 +18,5 @@
 |07|[Deep Neural Networks](lecture/lecture07)
 |08|[Convolutional Neural Networks](lecture/lecture08)
 |09|[Keras](lecture/lecture09)
-
+|10|[Sensors]
 
