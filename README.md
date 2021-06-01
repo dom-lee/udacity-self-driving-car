@@ -4,6 +4,7 @@
 | :---: | ----- |
 |01|[Finding Lane Lines](project/project01)
 |02|[Traffic Sign Classifier](project/project02)
+|03|[Behavioral Cloning](project/project03)
 
 ## Lectures
 |Lecture| Title |
