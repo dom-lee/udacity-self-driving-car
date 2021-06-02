@@ -8,6 +8,8 @@
 |04|[Behavioral Cloning](project/p4-behavioral-cloning)
 |05|[Extended Kalman Filter](project/p5-extended-kalman-filter)
 |06|[Kidnapped Vehicle]
+|07|[Highway Driving (Path Planning)]
+|08|[PID Controller
 
 
 
