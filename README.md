@@ -20,4 +20,5 @@
 |09|[Keras](lecture/lecture09)
 |10|[Transfer Learning](lecture/lecture10)
 |11|[Extended Kalman Filters](lecture/lecture11)
+|12|[Markov Localization](lecture/lecture12)
 
