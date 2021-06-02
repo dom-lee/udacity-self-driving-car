@@ -13,8 +13,6 @@
 |09|[System Integration]
 
 
-
-
 ## Lectures
 |Lecture| Title |
 | :---: | ----- |
