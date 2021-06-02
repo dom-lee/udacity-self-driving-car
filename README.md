@@ -7,7 +7,7 @@
 |03|[Traffic Sign Classifier](project/p3-traffic-sign-classifier)
 |04|[Behavioral Cloning](project/p4-behavioral-cloning)
 |05|[Extended Kalman Filter](project/p5-extended-kalman-filter)
-|06|[Kidnapped Vehicle]
+|06|[Kidnapped Vehicle](project/p6-kidnapped-vehicle)
 |07|[Highway Driving (Path Planning)]
 |08|[PID Controller]
 |09|[System Integration]
