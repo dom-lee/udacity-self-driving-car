@@ -2,9 +2,15 @@
 ## Projects
 |Project| Title |
 | :---: | ----- |
-|01|[Finding Lane Lines](project/project01)
-|02|[Traffic Sign Classifier](project/project02)
-|03|[Behavioral Cloning](project/project03)
+|01|[Finding Lane Lines](project/p1-finding-lane-lines)
+|02|[Advanced Lane Finding](project/p2-advanced-lane-finding)
+|03|[Traffic Sign Classifier](project/p3-traffic-sign-classifier)
+|04|[Behavioral Cloning](project/p4-behavioral-cloning)
+|05|[Extended Kalman Filter](project/p5-extended-kalman-filter)
+|06|[Kidnapped Vehicle]
+
+
+
 
 ## Lectures
 |Lecture| Title |
@@ -21,4 +27,5 @@
 |10|[Transfer Learning](lecture/lecture10)
 |11|[Extended Kalman Filters](lecture/lecture11)
 |12|[Markov Localization](lecture/lecture12)
+|13|[Particle Filter](lecture/lecture13)
 
