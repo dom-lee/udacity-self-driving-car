@@ -8,7 +8,7 @@
 |04|[Behavioral Cloning](project/p4-behavioral-cloning)
 |05|[Extended Kalman Filter](project/p5-extended-kalman-filter)
 |06|[Kidnapped Vehicle](project/p6-kidnapped-vehicle)
-|07|[Highway Driving (Path Planning)]
+|07|[Highway Driving (Path Planning)](project/p7-path-planning)
 |08|[PID Controller]
 |09|[System Integration]
 
@@ -30,3 +30,6 @@
 |12|[Markov Localization](lecture/lecture12)
 |13|[Particle Filter](lecture/lecture13)
 |14|[Prediction](lecture/lecture14)
+|15|[Behavior Planning](lecture/lecture15)
+|16|[Trajectory Generation](lecture/lecture16)
+|17|[PID Control](lecture/lecture17)
