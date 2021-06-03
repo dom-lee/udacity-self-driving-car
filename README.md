@@ -33,3 +33,5 @@
 |15|[Behavior Planning](lecture/lecture15)
 |16|[Trajectory Generation](lecture/lecture16)
 |17|[PID Control](lecture/lecture17)
+|18|[Autonomous Vehicle Architecture](lecture/lecture18)
+
